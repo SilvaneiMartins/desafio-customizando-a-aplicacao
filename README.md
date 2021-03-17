@@ -40,10 +40,11 @@ Para executar JSON Server fake, você precisa executar o seguinte comandos logo 
 ```bash
 # Executar Server JSON Server
 $ yarn server
+```
+Apos digitar o comando acima ficara desta forma.
 
 <a href="https://imgur.com/iYZ9GBC"><img src="https://i.imgur.com/iYZ9GBC.png" title="source: imgur.com" /></a>
 
-```
 
 ### Frontend :earth_americas:
 Para criar e executar esta aplicação frontend, você precisa executar o seguinte comandos logo abaixo:
