@@ -1,5 +1,5 @@
 <h1 align="center">
-    Desafio 2º Customizando a aplicacção 
+    Desafio 2º Customizando a aplicação 
 </h1>
 
 <h4 align="left">
