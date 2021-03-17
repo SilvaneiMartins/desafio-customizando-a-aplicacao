@@ -34,20 +34,11 @@ No frontend optamos por usar as tecnologais descritas abaixo, pela expressivida 
 
 ## :information_source: Como usar
 
-### Backend :earth_americas:
-Para criar e executar esta aplicação Backend, você precisa executar o seguinte comandos logo abaixo:
+### Executar Server :earth_americas:
+Para executar JSON Server fake, você precisa executar o seguinte comandos logo abaixo:
 
 ```bash
-# Clonar o repositório
-$ git clone https://github.com/SilvaneiMartins/desafio-customizando-a-aplicacao
-
-# Acessar o pasta do projeto
-$ cd desafio-customizando-a-aplicacao
-
-# Instala as dependencies do projeto
-$ yarn
-
-# Executar server
+# Executar Server JSON Server
 $ yarn server
 ```
 
